@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/jhag01/jhag01/master/assets/kitty.gif" height="100" />
 <br><br>
 
-![Discord](https://img.shields.io/badge/Add%20me%20on%20Discord-%40jhag01-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%40jhag01-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-jhag01-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=lua,vscode,mysql,git,py,pycharm,grafana,js,html,css,figma&theme=dark" width=" 500" /> </a> </div>
